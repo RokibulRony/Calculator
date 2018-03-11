@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string-array name="theme_colors">
+        <item>"Blue"</item>
+        <item>"Cyan"</item>
+        <item>"Gray"</item>
+        <item>"Green"</item>
+        <item>"Purple"</item>
+        <item>"Red"</item>
+    </string-array>
+    <string-array name="theme_colors_entries">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+    <string name="banner_ad_unit_id">ca-app-pub-6827843563747993/9088948778</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
